@@ -1,3 +1,5 @@
+開發工作都在main分支以外的分支進行，等到完成並測試過後再合併到main
+
 玩家blueprint位置: ThirdPerson/Blueprints/BP_ThirdPersonCharacter
 
 基本按鍵:
