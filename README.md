@@ -7,6 +7,7 @@
 跳躍 shift
 蹲下 c
 翻滾 space
+衝刺 按住space
 攻擊 left mouse
 防禦 right mouse
 盾反 q
