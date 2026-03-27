@@ -1,3 +1,5 @@
+開發工作都在main分支以外的分支進行，等到完成並測試過後再合併到main
+
 玩家blueprint位置: ThirdPerson/Blueprints/BP_ThirdPersonCharacter
 
 基本按鍵:
@@ -5,6 +7,7 @@
 跳躍 shift
 蹲下 c
 翻滾 space
+衝刺 按住space
 攻擊 left mouse
 防禦 right mouse
 盾反 q
